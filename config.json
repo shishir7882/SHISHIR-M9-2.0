@@ -25,25 +25,25 @@
     "whitelistUsers": []
   },
   "adminBot": [
-    "61570871885492",
-    "61589806776925",
+    "61595106187744",
+    "61595106187744",
     ""
   ],
   "premiumUsers": [
-    "100087331405932"
+    "61595106187744"
   ],
   "devUsers": [
-    "100087331405932",
-    "61591691632709"
+    "61595106187744",
+    "61595106187744"
   ],
-  "feeCollectorUID": "61591691632709",
+  "feeCollectorUID": "61595106187744",
   "feeCollectorUID_note": "All money spent by users on commands (requiredMoney) will be added to this UID's wallet. Set to empty string to disable.",
   "notes_premiumUsers": "List of user IDs with premium access (role 3)",
   "notes_devUsers": "List of developer IDs with full access (role 4)",
   "whiteListMode": {
     "enable": true,
     "whiteListIds": [
-      "100087331405932"
+      "61595106187744"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
